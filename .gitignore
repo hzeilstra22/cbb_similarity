@@ -1,0 +1,26 @@
+# Google credentials / secrets
+cbbanalytics-*.json
+*.json.key
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+
+# OS
+.DS_Store

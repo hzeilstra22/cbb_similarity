@@ -1,0 +1,6 @@
+# Pinned runtime versions the project was developed and tested against.
+# Install the package itself with: pip install -e ".[dev]"
+numpy==2.4.2
+pandas==2.2.3
+scikit-learn==1.8.0
+plotly==6.7.0
